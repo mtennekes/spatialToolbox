@@ -1,0 +1,16 @@
+{
+    "contents" : "#' Spatial Toolbox\n#'\n#' \\tabular{ll}{\n#' Package: \\tab tmap\\cr\n#' Type: \\tab Package\\cr\n#' Version: \\tab 0.8\\cr\n#' Date: \\tab 2015-04-24\\cr\n#' License: \\tab GPL-3\\cr\n#' LazyLoad: \\tab yes\\cr\n#' }\n#'\n#' Miscellaneous spatial tools, such as creating smooth polylines from points.\n#' \n#' @name spatialTools-package\n#' @aliases spatialTools\n#' @docType package\n#' @author Martijn Tennekes \\email{mtennekes@@gmail.com}\n#' @keywords GIS\nNULL\n",
+    "created" : 1431096409954.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4238567112",
+    "id" : "AC65037",
+    "lastKnownWriteTime" : 1431096461,
+    "path" : "D:/tijn/rdevel/spatialToolbox/pkg/R/pkg.R",
+    "project_path" : "pkg/R/pkg.R",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

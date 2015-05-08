@@ -1,0 +1,20 @@
+Package: spatialToolbox
+Maintainer: Martijn Tennekes <mtennekes@gmail.com>
+License: GPL-3
+Title: Thematic Maps
+Type: Package
+LazyLoad: yes
+Author: Martijn Tennekes
+Description: Miscellaneous spatial tools, such as creating smooth polylines from points.
+Version: 0.1
+Date: 2015-05-08
+Depends:
+    R (>= 3.0)
+Imports:
+    rgeos,
+    sp,
+    rgdal,
+    raster,
+    igraph,
+    fields,
+    vegan
